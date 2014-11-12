@@ -31,3 +31,5 @@ We will tell our teammates as early as we can if we can't make a meeting or work
 We agree to volunteer to take on tasks and do them well and on time as best we can.
 
 If we don't know how to do something, we will do our best to figure it out. We will ask for help if we get stuck.
+
+Last spring we learned that we worked best when we were all together, and found it hard to do things on our own time. To succeed this fall quarter we must continue to work together at the same time.
