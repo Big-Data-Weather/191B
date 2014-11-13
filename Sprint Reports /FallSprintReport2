@@ -1,0 +1,17 @@
+Sprint Report 2
+Team Quotaero 
+Bradley Cruce, John Delshadi, Jeffrey Fellows, Becka Goncharov, Ronnie Nguyen, Steven Ov
+
+Tasks from the past two weeks: 
+Move application to our own Amazon Web Server, Reverse Engineer Code, Find Datasources
+
+Tasks Completed:
+- Moved application to our own Amazon Web Server
+- Reserve engineered some of the code
+- Found a good list datasources to use
+
+
+Tasks for the next two weeks
+- Move application to sponsor's Amazon Web Server
+- Pull data from another data source
+- Write a script to generate mock data
